@@ -40,7 +40,7 @@ describe("index.js", () => {
     expect(yellow).to.equal("yellow")
     expect(green).to.exist
     expect(green).to.equal("green")
-    expect(blue).to.exist
+    expect(blue).to.exist 
     expect(blue).to.equal("blue")
     expect(indigo).to.exist
     expect(indigo).to.equal("indigo")
